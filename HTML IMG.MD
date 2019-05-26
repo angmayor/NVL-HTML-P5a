@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-0">
-    <title>Copa del Rey</title>
+    <title>"Copa del Rey"</title>
   </head>
   <body>
     <p>Imagenes</p>
